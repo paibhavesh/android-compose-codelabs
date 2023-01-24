@@ -15,7 +15,7 @@
   ~ limitations under the License.
 -->
 <resources>
-    <string name="app_name">AnimationCodelab</string>
+    <string name="app_name">AnimaciónCodelab</string>
     <string name="home">Home</string>
     <string name="work">Work</string>
     <string name="weather">Weather</string>
