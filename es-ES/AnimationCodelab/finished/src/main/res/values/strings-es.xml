@@ -16,7 +16,7 @@
 -->
 <resources>
     <string name="app_name">AnimaciónCodelab</string>
-    <string name="home">Home</string>
+    <string name="home">Inicio</string>
     <string name="work">Work</string>
     <string name="weather">Weather</string>
     <string name="temperature">18 ℃</string>
