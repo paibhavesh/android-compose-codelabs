@@ -15,15 +15,15 @@
   ~ limitations under the License.
 -->
 <resources>
-    <string name="app_name">AnimationCodelab</string>
-    <string name="home">Home</string>
-    <string name="work">Work</string>
-    <string name="weather">Weather</string>
-    <string name="temperature">18 ℃</string>
-    <string name="tasks">Tasks</string>
-    <string name="add_tasks">ADD TASKS</string>
+    <string name="app_name">AnimaciónCodelab</string>
+    <string name="home">Inicio</string>
+    <string name="work">Trabajar</string>
+    <string name="weather">Clima</string>
+    <string name="temperature">18 °C</string>
+    <string name="tasks">Tareas</string>
+    <string name="add_tasks">AÑADIR TASAS</string>
     <string-array name="tasks">
-        <item>Buy milk</item>
+        <item>Comprar leche</item>
         <item>Choose curtain</item>
         <item>Plant rosemary</item>
         <item>Finish the essay</item>
